@@ -13,13 +13,13 @@
 ### Bloco Completo (use este por padrao):
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style.
 ```
 
 ### Bloco Curto (quando o prompt estiver muito longo):
 
 ```
-Funny energetic orange fox with golden horn, black nerd glasses, gold "Z" chain necklace, fluffy tail, excited goofy expression, chibi 3D cartoon style.
+Funny energetic orange fox with golden horn, black nerd glasses, gold "Z" chain necklace, fluffy tail, excited goofy expression, childlike squeaky voice, chibi 3D cartoon style.
 ```
 
 ### Detalhes Visuais de Referencia:
@@ -35,16 +35,18 @@ Funny energetic orange fox with golden horn, black nerd glasses, gold "Z" chain 
 | Rabo | Grande, felpudo, laranja |
 | Corpo | Proporcoes chibi (cabeca grande, corpo pequeno), bipede |
 | Personalidade | ENGRACADO e AGITADO — gestos exagerados, energia alta, expressoes comicas |
+| Voz | INFANTIL — childlike high-pitched voice, cute squeaky tone |
 | Estilo | 3D cartoon render, ultra realistic cartoon |
 
 ### Palavras-chave de Personalidade (adicione conforme a cena):
 
 | Tipo de Cena | Palavras para adicionar |
 |--------------|------------------------|
-| Apresentando/Tutorial | "funny exaggerated presenter pose, goofy excited expression" |
-| Reagindo/Surpreso | "animated lively body language, comedic over-the-top reaction" |
-| Dancando/Celebrando | "bouncy energetic movement, playful hyperactive celebration" |
-| Explicando | "enthusiastic gestures, comically serious expression" |
+| Apresentando/Tutorial | "funny exaggerated presenter pose, goofy excited expression, childlike enthusiastic voice" |
+| Reagindo/Surpreso | "animated lively body language, comedic over-the-top reaction, high-pitched surprised squeak" |
+| Dancando/Celebrando | "bouncy energetic movement, playful hyperactive celebration, excited childlike cheering" |
+| Explicando | "enthusiastic gestures, comically serious expression, cute squeaky explaining voice" |
+| Falando/Narracando | "childlike high-pitched voice, cute squeaky energetic tone, fast excited speech" |
 
 ---
 
@@ -147,7 +149,7 @@ BOM:   "large flat monitor, front-facing, parallel to camera, solid green screen
 ### PROMPT 1 — Zod com Monitor Chroma Key (versao otimizada do original)
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Full body, looking at camera, funny exaggerated presenter pose.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style. Full body, looking at camera, funny exaggerated presenter pose.
 Large monitor beside character, flat front-facing screen parallel to camera, solid green #00FF00 chroma key fill, clean surface.
 Dark futuristic background, neon green "UNION ZOD" text.
 Medium shot, 16:9, flat lighting, high quality render.
@@ -158,7 +160,7 @@ Medium shot, 16:9, flat lighting, high quality render.
 ### PROMPT 2 — Zod Apresentando (sem monitor, so personagem)
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Full body, facing camera, funny exaggerated presenter pose, one hand gesturing wildly.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style. Full body, facing camera, funny exaggerated presenter pose, one hand gesturing wildly.
 Dark futuristic crypto background, neon green glow, "UNION ZOD" text.
 Medium shot, 16:9, soft flat lighting, high detail render.
 ```
@@ -168,7 +170,7 @@ Medium shot, 16:9, soft flat lighting, high detail render.
 ### PROMPT 3 — Zod com Monitor mostrando Grafico
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Standing beside large flat-screen monitor, enthusiastic tutorial pose, looking at camera.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style. Standing beside large flat-screen monitor, enthusiastic tutorial pose, looking at camera.
 Monitor facing camera directly, flat front view, screen showing green crypto chart on dark background.
 Futuristic dark room, neon green accents, "UNION ZOD" neon sign.
 Medium shot, 16:9, flat studio lighting, high quality render.
@@ -179,7 +181,7 @@ Medium shot, 16:9, flat studio lighting, high quality render.
 ### PROMPT 4 — Zod Sentado no Setup Gamer/Crypto
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, standing upright on two legs, 3D cartoon render style. Sitting at futuristic desk, facing camera, comically excited expression, animated lively body language.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style. Sitting at futuristic desk, facing camera, comically excited expression, animated lively body language.
 Large monitor on desk showing solid green #00FF00 chroma key screen, monitor flat and frontal.
 Dark futuristic room, neon green ambient light, crypto aesthetic.
 Medium shot, 16:9, cinematic flat lighting, high detail render.
@@ -190,7 +192,7 @@ Medium shot, 16:9, cinematic flat lighting, high detail render.
 ### PROMPT 5 — Intro/Abertura do Canal
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Full body, dynamic confident pose, arms crossed, big goofy grin at camera.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style. Full body, dynamic confident pose, arms crossed, big goofy grin at camera.
 Dark futuristic environment, holographic crypto symbols floating, large neon green "UNION ZOD" text behind character.
 Wide shot, 16:9, dramatic neon lighting, cinematic quality, high detail render.
 ```
@@ -200,7 +202,7 @@ Wide shot, 16:9, dramatic neon lighting, cinematic quality, high detail render.
 ### PROMPT 6 — Zod Explicando com Quadro/Tela ao Lado
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Standing, pointing enthusiastically at large floating screen beside him, comedic over-the-top presenter pose.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two legs, 3D cartoon render style. Standing, pointing enthusiastically at large floating screen beside him, comedic over-the-top presenter pose.
 Floating screen rectangular, front-facing flat, solid bright green #00FF00 chroma key fill, clean surface.
 Minimalist dark futuristic background, subtle neon green glow.
 Medium shot, 16:9, clean flat lighting, sharp high quality render.
