@@ -4,6 +4,50 @@
 
 ---
 
+## 0. CHARACTER BIBLE — Identidade Visual do Zod (OBRIGATORIO)
+
+> **REGRA NUMERO 1:** Cole o bloco abaixo no INICIO de TODO prompt.
+> **REGRA NUMERO 2:** SEMPRE envie a imagem de referencia do Zod junto com o prompt.
+> **REGRA NUMERO 3:** NUNCA mude o bloco. Se a IA errar um detalhe, reforce APENAS esse detalhe apos o bloco.
+
+### Bloco Completo (use este por padrao):
+
+```
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style.
+```
+
+### Bloco Curto (quando o prompt estiver muito longo):
+
+```
+Funny energetic orange fox with golden horn, black nerd glasses, gold "Z" chain necklace, fluffy tail, excited goofy expression, chibi 3D cartoon style.
+```
+
+### Detalhes Visuais de Referencia:
+
+| Parte | Descricao Exata |
+|-------|----------------|
+| Pelo/Fur | Laranja vibrante (bright orange), peito e barriga branco (white chest) |
+| Cabeca | Proporcao grande (chibi), chifre dourado pequeno tipo unicornio no topo |
+| Olhos | Grandes, escuros, atras dos oculos |
+| Oculos | Retangulares, pretos, estilo nerd |
+| Nariz | Pequeno, preto |
+| Acessorio | Corrente de ouro com medalha/pingente "Z" no pescoco |
+| Rabo | Grande, felpudo, laranja |
+| Corpo | Proporcoes chibi (cabeca grande, corpo pequeno), bipede |
+| Personalidade | ENGRACADO e AGITADO — gestos exagerados, energia alta, expressoes comicas |
+| Estilo | 3D cartoon render, ultra realistic cartoon |
+
+### Palavras-chave de Personalidade (adicione conforme a cena):
+
+| Tipo de Cena | Palavras para adicionar |
+|--------------|------------------------|
+| Apresentando/Tutorial | "funny exaggerated presenter pose, goofy excited expression" |
+| Reagindo/Surpreso | "animated lively body language, comedic over-the-top reaction" |
+| Dancando/Celebrando | "bouncy energetic movement, playful hyperactive celebration" |
+| Explicando | "enthusiastic gestures, comically serious expression" |
+
+---
+
 ## 1. Analise do Prompt que Funcionou
 
 ### Prompt original:
@@ -88,11 +132,13 @@ BOM:   "large flat monitor, front-facing, parallel to camera, solid green screen
 
 ### Template Base:
 ```
-[PERSONAGEM], [POSE], [EXPRESSAO].
+[BLOCO DO PERSONAGEM — copie da secao 0], [POSE], [EXPRESSAO DE PERSONALIDADE].
 [LAYOUT/COMPOSICAO DOS ELEMENTOS].
 [DETALHES DO CENARIO/OBJETOS].
 [ESTILO], [FORMATO], [ILUMINACAO], [QUALIDADE].
 ```
+
+**IMPORTANTE:** Sempre comece com o Bloco Completo ou Bloco Curto da secao 0.
 
 ---
 
@@ -101,27 +147,20 @@ BOM:   "large flat monitor, front-facing, parallel to camera, solid green screen
 ### PROMPT 1 — Zod com Monitor Chroma Key (versao otimizada do original)
 
 ```
-Raposa Zod cartoon, em pe, corpo inteiro, olhando para a camera, pose simpatica de apresentador.
-Monitor grande ao lado, tela plana frontal paralela a camera, tela 100% verde solido #00FF00 chroma key, sem reflexos.
-Fundo futurista escuro com texto neon verde "UNION ZOD".
-Estilo ultra realistic cartoon, medium shot, 16:9, flat lighting, high quality render.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Full body, looking at camera, funny exaggerated presenter pose.
+Large monitor beside character, flat front-facing screen parallel to camera, solid green #00FF00 chroma key fill, clean surface.
+Dark futuristic background, neon green "UNION ZOD" text.
+Medium shot, 16:9, flat lighting, high quality render.
 ```
-
-**Por que este e melhor:**
-- 58 palavras (conciso e direto)
-- Sem repeticoes
-- Sem instrucoes negativas
-- Termos tecnicos em ingles
-- Hierarquia clara: personagem > objeto > fundo > estilo
 
 ---
 
 ### PROMPT 2 — Zod Apresentando (sem monitor, so personagem)
 
 ```
-Raposa Zod cartoon character, full body, standing, facing camera, friendly presenter pose, one hand gesturing.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Full body, facing camera, funny exaggerated presenter pose, one hand gesturing wildly.
 Dark futuristic crypto background, neon green glow, "UNION ZOD" text.
-Ultra realistic cartoon style, medium shot, 16:9, soft flat lighting, high detail render.
+Medium shot, 16:9, soft flat lighting, high detail render.
 ```
 
 ---
@@ -129,10 +168,10 @@ Ultra realistic cartoon style, medium shot, 16:9, soft flat lighting, high detai
 ### PROMPT 3 — Zod com Monitor mostrando Grafico
 
 ```
-Raposa Zod cartoon, standing beside large flat-screen monitor, friendly tutorial pose, looking at camera.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Standing beside large flat-screen monitor, enthusiastic tutorial pose, looking at camera.
 Monitor facing camera directly, flat front view, screen showing green crypto chart on dark background.
 Futuristic dark room, neon green accents, "UNION ZOD" neon sign.
-Ultra realistic cartoon, medium shot, 16:9, flat studio lighting, high quality.
+Medium shot, 16:9, flat studio lighting, high quality render.
 ```
 
 ---
@@ -140,10 +179,10 @@ Ultra realistic cartoon, medium shot, 16:9, flat studio lighting, high quality.
 ### PROMPT 4 — Zod Sentado no Setup Gamer/Crypto
 
 ```
-Raposa Zod cartoon, sitting at futuristic desk, facing camera, friendly expression, hands on desk.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, standing upright on two legs, 3D cartoon render style. Sitting at futuristic desk, facing camera, comically excited expression, animated lively body language.
 Large monitor on desk showing solid green #00FF00 chroma key screen, monitor flat and frontal.
 Dark futuristic room, neon green ambient light, crypto aesthetic.
-Ultra realistic cartoon style, medium shot, 16:9, cinematic flat lighting, high detail.
+Medium shot, 16:9, cinematic flat lighting, high detail render.
 ```
 
 ---
@@ -151,9 +190,9 @@ Ultra realistic cartoon style, medium shot, 16:9, cinematic flat lighting, high 
 ### PROMPT 5 — Intro/Abertura do Canal
 
 ```
-Raposa Zod cartoon character, full body, dynamic confident pose, arms crossed, looking at camera with smile.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Full body, dynamic confident pose, arms crossed, big goofy grin at camera.
 Dark futuristic environment, holographic crypto symbols floating, large neon green "UNION ZOD" text behind character.
-Ultra realistic cartoon, wide shot, 16:9, dramatic neon lighting, cinematic quality, high detail render.
+Wide shot, 16:9, dramatic neon lighting, cinematic quality, high detail render.
 ```
 
 ---
@@ -161,10 +200,10 @@ Ultra realistic cartoon, wide shot, 16:9, dramatic neon lighting, cinematic qual
 ### PROMPT 6 — Zod Explicando com Quadro/Tela ao Lado
 
 ```
-Raposa Zod cartoon, standing, pointing at large floating screen beside him, tutorial presenter pose.
-Floating screen rectangular, front-facing flat, solid bright green #00FF00 chroma key fill, no reflections.
+Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, excited goofy expression, exaggerated lively gestures, standing upright on two legs, 3D cartoon render style. Standing, pointing enthusiastically at large floating screen beside him, comedic over-the-top presenter pose.
+Floating screen rectangular, front-facing flat, solid bright green #00FF00 chroma key fill, clean surface.
 Minimalist dark futuristic background, subtle neon green glow.
-Ultra realistic cartoon, medium shot, 16:9, clean flat lighting, sharp high quality render.
+Medium shot, 16:9, clean flat lighting, sharp high quality render.
 ```
 
 ---
