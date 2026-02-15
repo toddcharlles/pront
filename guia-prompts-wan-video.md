@@ -182,7 +182,7 @@ Medium shot, 16:9, flat studio lighting, high quality render.
 ### PROMPT 4 — Zod Sentado no Setup Gamer/Crypto
 
 ```
-Funny energetic anthropomorphic orange fox character, chibi proportions, big head small body, bright orange fur, white chest fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, wide open mouth with sharp pointed canine teeth visible, excited goofy expression, childlike high-pitched squeaky voice, standing upright on two short legs, soft rounded paw hands, 3D cartoon render style. Sitting at futuristic desk, facing camera, comically excited expression, animated lively body language.
+Funny energetic anthropomorphic orange fox character, chubby round short body, big head, bright orange fur, white chest and belly fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, wide open mouth with sharp pointed canine teeth visible, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two short legs, soft rounded paw hands, 3D cartoon render style. Sitting at futuristic desk, facing camera, comically excited expression, animated lively body language.
 Large monitor on desk showing solid green #00FF00 chroma key screen, monitor flat and frontal.
 Dark futuristic room, neon green ambient light, crypto aesthetic.
 Medium shot, 16:9, cinematic flat lighting, high detail render.
@@ -208,6 +208,43 @@ Floating screen rectangular, front-facing flat, solid bright green #00FF00 chrom
 Minimalist dark futuristic background, subtle neon green glow.
 Medium shot, 16:9, clean flat lighting, sharp high quality render.
 ```
+
+---
+
+### PROMPT 7 — Video de Apresentacao (Zod se apresenta falando portugues)
+
+**Instrucoes:** Use este prompt na Wan.video junto com a imagem de referencia. Se a Wan.video nao suportar fala/audio direto, gere o video mudo e adicione a voz depois com ElevenLabs ou outra ferramenta de TTS.
+
+```
+Funny energetic anthropomorphic orange fox character, chubby round short body, big head, bright orange fur, white chest and belly fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, wide open mouth with sharp pointed canine teeth visible, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two short legs, soft rounded paw hands, 3D cartoon render style. Full body, facing camera, waving excitedly with one paw, bouncy hyperactive movement, talking and laughing, mouth opening and closing animated speech, comedic enthusiastic introduction pose.
+Futuristic dark studio background, glowing neon green "UNION ZOD" logo behind character, holographic crypto icons floating softly, subtle particle effects.
+Medium shot, 16:9, soft cinematic lighting with neon green rim light, high quality render, smooth animation.
+```
+
+**Texto para dublar depois (voz infantil, agitada, engracada):**
+
+> "E aiii galera! Eu sou o Zod! A raposa mais doida do mundo crypto!
+> Aqui no canal UNION ZOD eu vou te ensinar TUDO sobre crypto de um jeito
+> que ate sua avo vai entender! Bora comigo? Entao se inscreve, da o like
+> e ativa o sininho que o bicho vai pegar! Ahahaha!"
+
+**Dica:** Para a dublagem use ElevenLabs ou Coqui TTS com voz infantil masculina, velocidade 1.2x, tom agudo e alegre.
+
+---
+
+### PROMPT 8 — Abertura de Video Tutorial (Zod apresenta o tema do dia)
+
+```
+Funny energetic anthropomorphic orange fox character, chubby round short body, big head, bright orange fur, white chest and belly fur, small golden unicorn horn on top of head, black rectangular nerd glasses, gold chain necklace with "Z" medallion, big fluffy orange tail, big dark eyes, small black nose, wide open mouth with sharp pointed canine teeth visible, excited goofy expression, exaggerated lively gestures, childlike high-pitched squeaky voice, standing upright on two short legs, soft rounded paw hands, 3D cartoon render style. Full body, jumping in excitedly from left side of screen, landing with bouncy comedic impact, then looking at camera with big goofy grin, pointing finger at camera, animated talking mouth.
+Dark futuristic studio, large floating holographic screen behind character with solid green #00FF00 chroma key fill, neon green "UNION ZOD" small logo in corner, subtle green ambient glow.
+Medium shot, 16:9, cinematic flat lighting with green neon accents, high quality smooth animation.
+```
+
+**Texto para dublar depois:**
+
+> "Fala pessoal! Beleza? Aqui e o Zod e HOJE eu vou te explicar
+> [TEMA DO VIDEO]! Fica ate o final porque essa aula vai ser TOP!
+> Cola comigo!"
 
 ---
 
